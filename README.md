@@ -1,3 +1,6 @@
+## IPL Prediction
+Indian Premier League match prediction using machine learning
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rohanraarora/IPL-Prediction/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
